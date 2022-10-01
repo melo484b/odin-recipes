@@ -1,7 +1,7 @@
 # odin-recipes
-HTML practice
--Boilerplate
--Local links
--Unordered lists
--Ordered lists
--Git commands
+HTML practice<br>
+- Boilerplate<br>
+- Local links<br>
+- Unordered lists<br>
+- Ordered lists<br>
+- Git commands<br>
