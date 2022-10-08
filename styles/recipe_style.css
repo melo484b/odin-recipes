@@ -1,0 +1,10 @@
+body {
+    background-color: palegoldenrod;
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.description {
+    font-family: cursive;
+}
